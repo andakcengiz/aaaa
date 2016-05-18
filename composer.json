@@ -1,0 +1,22 @@
+{
+    "name": "andakcengiz\yorum",
+    "description": "Proje",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "yii 2", "yorum"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Cengiz Andak",
+            "email": "spear_cengiz@hotmail.com"
+        }
+    ],
+	"minimum-stability": "stable",
+	"require": {
+		"yiisoft/yii2": "*"
+	},
+    "autoload": {
+        "psr-4": {
+            "andakcengiz\\yorum\\": ""
+        }
+    }
+}
